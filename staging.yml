@@ -1,3 +1,4 @@
 ---
 web:
-   - dev03.moneylion.com
+   us-eragon-1:
+    - dev03.moneylion.com
