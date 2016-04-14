@@ -1,8 +1,4 @@
 ---
 web:
-   G1:
-    - dev03.moneylion.com
-
-   G2:
-
-db:
+   site1:
+     - dev03.moneylion.com
