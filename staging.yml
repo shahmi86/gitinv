@@ -2,3 +2,7 @@
 web:
    site1:
      - dev03.moneylion.com
+
+server:
+   automation:
+     - ansibletower.moneylion.com
